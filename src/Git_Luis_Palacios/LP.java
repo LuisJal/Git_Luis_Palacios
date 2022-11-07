@@ -9,7 +9,7 @@ public class LP {
 		
 		System.out.println("Alumno:_"+nombre+"_"+apellido);
 		
-		System.out.println("Primera modificacion desde master");
+		System.out.println("Primera modificacion desde master-Cambiado");
 
 	}
 

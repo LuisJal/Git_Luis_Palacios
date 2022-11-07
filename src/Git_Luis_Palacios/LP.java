@@ -7,8 +7,11 @@ public class LP {
 		String nombre="Luis";
 		String apellido="Palacios";
 		
-		System.out.print("Alumno: _"+nombre+"_"+apellido);
+		System.out.println("Alumno:_"+nombre+"_"+apellido);
+		
+		System.out.println("Primera modificacion desde master");
 
 	}
 
 }
+	
